@@ -18,7 +18,7 @@ This repository contains resources and designs for the **Book Shopping App**, sh
 ## 🎨 Design Details
 
 - **Tool**: [Figma](https://www.figma.com/)
-- **Prototype Link**: [View the Prototype](#) *(Insert Figma link here)*
+- **Prototype Link**: [View the Prototype](https://www.figma.com/proto/g7v14U4YCnH8oTyXRIKfzs/CAT-1?node-id=56-2&t=KO7Muu56y9UCknG6-1) *(Insert Figma link here)*
 - **Design Features**:
   - **Interactive Elements**: Buttons, dropdowns, and modal popups.
   - **Color Scheme**: Aesthetic and accessible with focus on readability.
@@ -30,9 +30,9 @@ This repository contains resources and designs for the **Book Shopping App**, sh
 
 View the functionality and user experience of the app through this video:
 
-![Demo Video](./Screen%20Recording%202024-11-26%20221031.mp4)
+![Demo Video](./Book%20Shopping%20App.mp4)
 
-> Note: Replace the above path with the actual file path once uploaded.
+> Note: You can touch and download the video.
 
 ---
 
@@ -41,4 +41,4 @@ View the functionality and user experience of the app through this video:
 To use this project:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/book-shopping-app.git
+   git clone https://github.com/yazhini-gp/book-shopping-app.git
