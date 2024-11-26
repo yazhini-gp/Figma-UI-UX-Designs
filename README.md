@@ -1,45 +1,49 @@
-# 📚 Book Shopping App
+# Book Shopping App 📚
 
-This repository contains resources and designs for the **Book Shopping App**, showcasing a streamlined shopping experience for book lovers. The project includes user-friendly interfaces designed using **Figma**, interactive features, and an accompanying video walkthrough.
+This repository contains resources and designs for the *Book Shopping App, a modern and minimalistic UI design concept for a book shopping platform. The design is created using **Figma* and features a clean, user-friendly interface for book lovers, aimed at providing an elegant and intuitive shopping experience.
 
 ---
 
 ## 🌟 Project Highlights
 
-- **Categories**: Explore genres like Fiction, Non-Fiction, Academic, and more.
-- **Search & Filter**: Find books by title, author, or category with advanced filters.
-- **Wishlist & Cart**: Save favorite books and manage your shopping list seamlessly.
-- **User Reviews**: Read and write reviews for books.
-- **Discount Alerts**: Receive notifications about discounts and special offers.
-- **Responsive Design**: Optimized layouts for mobile, tablet, and desktop users.
+- *Top Categories 🎭📚*: Browse through various genres such as Fiction, Non-Fiction, Academic, and more.
+- *Search & Filter 🔍*: Easily search for books by title, author, and category with intuitive filters.
+- *Popular Books ✨*: Showcase trending and best-selling books with their covers and titles.
+- *Wishlist & Cart 🛒*: Save your favorite books and add them to your shopping cart for later purchase.
+- *Discount Alerts 💸*: Stay updated on ongoing sales and special discounts.
+- *Minimal Navigation 🧭*: Simple bottom navigation bar to ensure easy browsing.
 
 ---
 
 ## 🎨 Design Details
 
-- **Tool**: [Figma](https://www.figma.com/)
-- **Prototype Link**: [View the Prototype](https://www.figma.com/proto/g7v14U4YCnH8oTyXRIKfzs/CAT-1?node-id=56-2&t=KO7Muu56y9UCknG6-1) *(Insert Figma link here)*
-- **Design Features**:
-  - **Interactive Elements**: Buttons, dropdowns, and modal popups.
-  - **Color Scheme**: Aesthetic and accessible with focus on readability.
-  - **Typography**: Clean and modern fonts for better user experience.
+- *Tool*: [Figma](https://www.figma.com/)
+- *Prototype Link*: [View the Prototype](https://www.figma.com/proto/0rQCb4c0yYcig6IkVUhFpm/CAT-1-%26-CAT-2?node-id=64-2&t=zwdkWprdoTpWOv4b-1)
+  
+
+- *Design Features*:
+  - Clean, modern interface focused on user experience.
+  - Interactive elements like buttons, filters, and pop-ups.
+  - Optimized for both mobile and desktop viewing.
 
 ---
 
-## 📹 Image and Video Demonstration
+## 📹 Video Demo
 
-View the functionality and user experience of the app through this video:
+Watch the *Book Shopping App* in action through the demo video below:
 
-![Demo Video](./Book%20Shopping%20App.mp4)
+[Watch the Demo Video](./videos/Book%20Shopping%20App.mp4)
 ![Over view](https://github.com/user-attachments/assets/053150be-8acd-4efc-98ca-c97cead61f54)
 
-> Note: You can touch and download the video.
+
+> *Note*: If the video doesn't play directly on GitHub, you can download it or open it using your preferred video player.
 
 ---
 
 ## 🔧 Getting Started
 
-To use this project:
-1. Clone the repository:
+To get started with this project:
+
+1. *Clone the repository*:
    ```bash
-   git clone https://github.com/yazhini-gp/book-shopping-app.git
+   git clone https://github.com/yourusername/book-shopping-app.git
