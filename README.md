@@ -18,7 +18,7 @@ This repository contains resources and designs for the *Book Shopping App, a mod
 ## 🎨 Design Details
 
 - *Tool*: [Figma](https://www.figma.com/)
-- *Prototype Link*: [View the Prototype](https://www.figma.com/proto/0rQCb4c0yYcig6IkVUhFpm/CAT-1-%26-CAT-2?node-id=64-2&t=zwdkWprdoTpWOv4b-1)
+- *Prototype Link*: [View the Prototype](https://www.figma.com/proto/g7v14U4YCnH8oTyXRIKfzs/CAT-1?node-id=56-2&t=KO7Muu56y9UCknG6-1) 
   
 
 - *Design Features*:
@@ -32,7 +32,7 @@ This repository contains resources and designs for the *Book Shopping App, a mod
 
 Watch the *Book Shopping App* in action through the demo video below:
 
-[Watch the Demo Video](./videos/Book%20Shopping%20App.mp4)
+[Watch the Demo Video](./Book%20Shopping%20App.mp4)
 ![Over view](https://github.com/user-attachments/assets/053150be-8acd-4efc-98ca-c97cead61f54)
 
 
