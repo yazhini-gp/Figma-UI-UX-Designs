@@ -26,11 +26,12 @@ This repository contains resources and designs for the **Book Shopping App**, sh
 
 ---
 
-## 📹 Video Demonstration
+## 📹 Image and Video Demonstration
 
 View the functionality and user experience of the app through this video:
 
 ![Demo Video](./Book%20Shopping%20App.mp4)
+![Over view](https://github.com/user-attachments/assets/053150be-8acd-4efc-98ca-c97cead61f54)
 
 > Note: You can touch and download the video.
 
